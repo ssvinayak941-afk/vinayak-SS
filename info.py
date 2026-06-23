@@ -1,2 +1,2 @@
-welcome to source code management lab
 
+welcome to scm lab
