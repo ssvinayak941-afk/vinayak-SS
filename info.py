@@ -1,1 +1,1 @@
-welcome.txt
+welcome to scm lab
