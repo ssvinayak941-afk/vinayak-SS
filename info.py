@@ -1,1 +1,2 @@
-welcome.txt
+welcome to source code management lab
+
